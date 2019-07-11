@@ -1,3 +1,5 @@
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S0YXPX)
+
 # REST FB Demo
 Social login to facebook using RESTFB java library.
 
